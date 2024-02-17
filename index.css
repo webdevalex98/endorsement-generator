@@ -1,0 +1,71 @@
+html body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+}
+
+.main-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+  margin: 30px auto;
+}
+
+textarea {
+  background: #444059;
+  font-family: "Inter";
+  padding: 2px 0px 50px 2px;
+  margin-bottom: 13px;
+  color: #8f8f8f;
+  border: none;
+  border-radius: 8px;
+}
+
+img {
+  width: 150px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  font-family: "Josefin Sans";
+  font-size: 25px;
+}
+
+button {
+  background: #28a9f1;
+  font-family: "Josefin Sans";
+  padding: 9px 120px;
+  color: #04131c;
+  font-size: 22px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
+
+h2 {
+  color: white;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  font-family: "inter";
+  font-size: 12;
+  padding-left: 0;
+}
+
+.no-items-text {
+     
+    color: #ffffff;
+}
+
+.endorsement-item {
+  color: #1b1924;
+  text-align: start;
+  padding: 8px 8px;
+  background-color: #ffffff;
+  margin-bottom: 13px;
+}
